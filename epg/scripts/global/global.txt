@@ -10,9 +10,6 @@ https://i.mjh.nz/SamsungTVPlus/all.xml
 Optus.xml
 https://epg.ninja/epg/MISC/AUSoptus.xml
 
-arabia.xml
-https://raw.githubusercontent.com/bebawy6/EPG/master/arEPG.xml
-
 arabia2.xml
 https://www.bevy.be/bevyfiles/arabia.xml
 
