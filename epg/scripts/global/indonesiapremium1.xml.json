@@ -1,0 +1,202 @@
+[
+	{
+		"origin": "AJWA TV",
+		"channel_name": "ID: Ajwa TV",
+		"channel_id": "AjwaTV.id"
+	},
+	{
+		"origin": "Aljazeera",
+		"channel_name": "ID: Al-Jazeera Arabic",
+		"channel_id": "AlJazeera.KINOZ"
+	},
+	{
+		"origin": "ANTV",
+		"channel_name": "ID: ANTV",
+		"channel_id": "ANTV.KINOZ"
+	},
+	{
+		"origin": "Bein 1",
+		"channel_name": "ID: beIN Sports 1",
+		"channel_id": "beinSports1.KINOZ"
+	},
+	{
+		"origin": "Bein 3",
+		"channel_name": "ID: beIN Sports 3",
+		"channel_id": "beinSports3.KINOZ"
+	},
+	{
+		"origin": "BTV",
+		"channel_name": "ID: BTV",
+		"channel_id": "BTV.KINOZ"
+	},
+	{
+		"origin": "Champions TV 1",
+		"channel_name": "ID: Champions TV 1",
+		"channel_id": "ChampionsTV1.KINOZ"
+	},
+	{
+		"origin": "Champions TV 2",
+		"channel_name": "ID: Champions TV 2",
+		"channel_id": "ChampionsTV2.KINOZ"
+	},
+	{
+		"origin": "Champions TV 3",
+		"channel_name": "ID: Champions TV 3",
+		"channel_id": "ChampionsTV3.KINOZ"
+	},
+	{
+		"origin": "Champions TV 5",
+		"channel_name": "ID: Champions TV 5",
+		"channel_id": "ChampionsTV5.KINOZ"
+	},
+	{
+		"origin": "Champions TV 6",
+		"channel_name": "ID: Champions TV 6",
+		"channel_id": "ChampionsTV6.KINOZ"
+	},
+	{
+		"origin": "DAAI TV",
+		"channel_name": "ID: DAAITV",
+		"channel_id": "DAAITV.KINOZ"
+	},
+	{
+		"origin": "Fashion TV Midnight Secrets",
+		"channel_name": "ID: Fashion TV Midnight Secrets",
+		"channel_id": "FashionTVMidnightSecrets.KINOZ"
+	},
+	{
+		"origin": "Hip Hip Horee!",
+		"channel_name": "ID: Hip-Hip Horee",
+		"channel_id": "HipHipHoree.KINOZ"
+	},
+	{
+		"origin": "Horee",
+		"channel_name": "ID: Horee",
+		"channel_id": "Horee.KINOZ"
+	},
+	{
+		"origin": "Indosiar",
+		"channel_name": "ID: Indosiar",
+		"channel_id": "Indosiar.KINOZ"
+	},
+	{
+		"origin": "Jaktv",
+		"channel_name": "ID: Jak TV",
+		"channel_id": "JakTV.KINOZ"
+	},
+	{
+		"origin": "JTV",
+		"channel_name": "ID: JTV",
+		"channel_id": "JTV.KINOZ"
+	},
+	{
+		"origin": "Kompas TV",
+		"channel_name": "ID: Kompas TV",
+		"channel_id": "KompasTV.KINOZ"
+	},
+	{
+		"origin": "Makkah TV",
+		"channel_name": "ID: Makkah TV",
+		"channel_id": "MakkahTV.KINOZ"
+	},
+	{
+		"origin": "Mentari TV",
+		"channel_name": "ID: Mentari TV",
+		"channel_id": "MentariTV.KINOZ"
+	},
+	{
+		"origin": "Metro TV",
+		"channel_name": "ID: Metro TV",
+		"channel_id": "MetroTV.KINOZ"
+	},
+	{
+		"origin": "Moji",
+		"channel_name": "ID: Moji",
+		"channel_id": "Moji.KINOZ"
+	},
+	{
+		"origin": "NET TV",
+		"channel_name": "ID: NET.",
+		"channel_id": "NetTV.KINOZ"
+	},
+	{
+		"origin": "News Asia",
+		"channel_name": "ID: CNA",
+		"channel_id": "CNAInternational.sg.id"
+	},
+	{
+		"origin": "NHK World Japan",
+		"channel_name": "ID: NHK World Japan",
+		"channel_id": "NHKWorldJapan.jp.id"
+	},
+	{
+		"origin": "Nusantara TV",
+		"channel_name": "ID: Nusantara TV",
+		"channel_id": "NusantaraTV.KINOZ"
+	},
+	{
+		"origin": "Premier League TV",
+		"channel_name": "ID: Premier League TV",
+		"channel_id": "PremierLeagueTV.KINOZ"
+	},
+	{
+		"origin": "RANS Channel",
+		"channel_name": "ID: RANS Channel",
+		"channel_id": "RansChannel.id"
+	},
+	{
+		"origin": "Rock Action",
+		"channel_name": "ID: Rock Action",
+		"channel_id": "RockAction.sg.id"
+	},
+	{
+		"origin": "RTV",
+		"channel_name": "ID: RTV",
+		"channel_id": "RajawaliTV.KINOZ"
+	},
+	{
+		"origin": "SCTV",
+		"channel_name": "ID: SCTV",
+		"channel_id": "SCTV.KINOZ"
+	},
+	{
+		"origin": "TRANS TV",
+		"channel_name": "ID: Trans TV",
+		"channel_id": "TransTV.KINOZ"
+	},
+	{
+		"origin": "Trans7",
+		"channel_name": "ID: Trans 7",
+		"channel_id": "Trans7.KINOZ"
+	},
+	{
+		"origin": "TVN",
+		"channel_name": "ID: tvN",
+		"channel_id": "tvNAsia.hk.id"
+	},
+	{
+		"origin": "TVOne",
+		"channel_name": "ID: tvOne",
+		"channel_id": "tvOne.KINOZ"
+	},
+	{
+		"origin": "TVRI",
+		"channel_name": "ID: TVRI Nasional",
+		"channel_id": "TVRINasional.id"
+	},
+	{
+		"origin": "World Cup 1",
+		"channel_name": "ID: Champions TV World Cup 1",
+		"channel_id": "ChampionsTVWorldCup1.KINOZ"
+	},
+	{
+		"origin": "World Cup 2",
+		"channel_name": "ID: Champions TV World Cup 2",
+		"channel_id": "ChampionsTVWorldCup2.KINOZ"
+	},
+	{
+		"origin": "Zee Bioskop",
+		"channel_name": "ID: Zee Bioskop",
+		"channel_id": "ZeeBioskop.in.id"
+	}
+]
