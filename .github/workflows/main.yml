@@ -1,0 +1,39 @@
+name: Generate EPG
+on:
+  schedule:
+    - cron: '00 00-12/4 * * *'
+  pull_request:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: checkout
+        uses: actions/checkout@v4
+      - name: setup python
+        uses: actions/setup-python@v5
+        with:
+          python-version: 3.11
+      - name: config
+        run: |
+          git pull
+          git config --global user.email "emperor.miui@gmail.com"
+          git config --global user.name "Emperor Team"
+          echo "Installing dependencies..."
+          python3 -m pip install lxml pgzip requests
+      - name: generate
+        run: |
+          cd epg/scripts
+          pwd
+          echo "Generating EPG..."
+          python3 -u index.py -zo guide.xml --source="global/global.txt" --gen-name="EmperorTelevision" --gen-url="emperorteam.my.id"
+          mv -v guide.xml.gz ..
+          cd ../..
+      - name: commit
+        run: |
+          git add -A
+          git commit -m "Generate EPG"
+          git push
